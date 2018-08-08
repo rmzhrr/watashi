@@ -1,2 +1,2 @@
 # watashi
-this is git a learning git for me
+This is a learning git for me
